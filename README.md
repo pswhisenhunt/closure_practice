@@ -10,5 +10,5 @@ Closure: A closure is a function defined within another scope, that has access t
 Why use a closure?
 Encapsulation ->
 they hide internal state;
-you can use a closure instead of prototype/constructor to create an object (see factory below);
-you can use them in async programming to maintain scope (state) without manually binding an object to a callback (see last example using setTimeout);
+you can use a closure instead of prototype/constructor to create an object (see factory example in closure.js);
+you can use them in async programming to maintain scope (state) without manually binding an object to a callback (see last setTimeout example in closure.js);
