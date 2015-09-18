@@ -83,7 +83,7 @@ module.exports = Person;
 
 
 
-// CLOSURE ARE MUST USEFUL FOR EVENTS AND CALLBACKS
+// CLOSURE ARE MOST USEFUL FOR EVENTS AND CALLBACKS
 // In async programming, the callback won't get fired untill after an event happens.
 // This will be on a completely new stack and the only way to get data into it is through lexical scope and a closure.
 
